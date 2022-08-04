@@ -1,7 +1,7 @@
 ### Hi, I'm Alex!
 - I'm interested in frontend development
 - I have a strong knowledge in HTML5, CSS3 and Javascript(ES6)
-- I'm currently trying to improve my skills (especially React and Redux)
+- I'm currently trying to improve my skills
 - I like building small web apps and little browser games
 
 <!---
